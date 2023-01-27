@@ -26,12 +26,10 @@ A **blessing** in **disguise**
 ---
 
 | **Country** | **Reason to visit** | **Days to spend** |
-| --- | --- | --- |
+| ---         | ---                 | ---               |
 | ***Switzerland*** | *Astounding beauty of Swiss Alps with stunning azure lakes and quiet countryside villages* | *spring/early summer about 10 days* |
-| :---: | --- | --- |
-| ***Indonesia*** | *Bali's allure, and visiting the magnificient temples and sacred Hindu ceremonies are top things in Bali* | *May, June and September about one week* |
-| :---: | :---: | :---: |
-| ***Europe*** | *Northern lights in Ireland* | *November to Febuary about one week* |
+| Indonesia | *Bali's allure, and visiting the magnificient temples and sacred Hindu ceremonies are top things in Bali* | *May, June and September about one week* |
+| Europe| *Northern lights in Ireland* | *November to Febuary about one week* |
 
 
 
