@@ -18,7 +18,20 @@ A **blessing** in **disguise**
 * United States national cricket team
 * Sri Lanka national cricket team
 * West Indies cricket team <br>
-Link to AboutMe.md file <https://github.com/Raajitha013/assignment2-vardhanapu/blob/main/AboutMe.md>
+[Link to AboutMe file](AboutMe.md)
+---
+
+### Places to visit atleast once in a lifetime
+
+---
+
+| **Country** | **Reason to visit** | **Days to spend** |
+| --- | --- | --- : |
+| ***Switzerland*** | *Astounding beauty of Swiss Alps with stunning azure lakes and quiet countryside villages* | *spring/early summer about 10 days* |
+| ***Indonesia*** | *Bali's allure, and visiting the magnificient temples and sacred Hindu ceremonies are top things in Bali* | *May, June and September about one week* |
+| ***Europe*** | *Northern lights in Ireland* | *November to Febuary about one week* |
+
+
 
 
 
