@@ -38,7 +38,7 @@ A **blessing** in **disguise**
 
 ---
 
-> Anybody who tells you money can't buy happiness never had any -*Samuel L. Jackson*
+> Anybody who tells you money can't buy happiness never had any -*Samuel L. Jackson* <br>
 > In real life, I assure you, there is no such thing as algebra -*Fran Lebowitz*
 
 
