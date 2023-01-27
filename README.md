@@ -39,8 +39,8 @@ India national cricket team
 
 Code Fencing 
 
-> How to change font face using CSS? <br>
-[Stack overflow](https://stackoverflow.com/questions/43277265/how-to-change-font-face)
+> [How to change font face using CSS?]
+(https://stackoverflow.com/questions/43277265/how-to-change-font-face)
 ```
 @font-face { 
 font-family: 'OpenSans'; 
@@ -53,8 +53,7 @@ src: url('OpenSans-Regular.eot#')  format('eot'),
 }
 
 ```
-
-[Snippet source](https://css-tricks.com/snippets/css/using-font-face-in-css/)
+[CSS code snippet](https://css-tricks.com/snippets/css/using-font-face-in-css/)
 
 
 
