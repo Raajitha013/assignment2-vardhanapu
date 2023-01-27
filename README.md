@@ -32,6 +32,16 @@ A **blessing** in **disguise**
 | Europe| *Northern lights in Ireland* | *November to Febuary about one week* |
 | France | *Paris most iconic attraction Eiffel Tower* | *October and April about 15 days* |
 
+---
+
+### Funny quotes that always makes me laugh 
+
+---
+
+> Anybody who tells you money can't buy happiness never had any -*Samuel L. Jackson*
+> In real life, I assure you, there is no such thing as algebra -*Fran Lebowitz*
+
+
 
 
 
