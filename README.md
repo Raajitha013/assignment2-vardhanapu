@@ -41,6 +41,25 @@ A **blessing** in **disguise**
 > Anybody who tells you money can't buy happiness never had any -*Samuel L. Jackson* <br>
 > In real life, I assure you, there is no such thing as algebra -*Fran Lebowitz*
 
+---
+
+Code Fencing 
+
+---
+
+> How to change font face using CSS
+[Stack overflow](https://stackoverflow.com/questions/43277265/how-to-change-font-face)
+```@font-face { 
+font-family: 'OpenSans'; 
+font-weight: normal;
+font-style: normal;
+src: url('OpenSans-Regular.eot#')  format('eot'),
+              url('OpenSans-Regular.woff')  format('woff'),
+              url('OpenSans-Regular.ttf')   format('truetype'),
+              url('OpenSans-Regular.svg#svgOpenSans')  format('svg'); 
+}```
+[Snippet source](https://css-tricks.com/snippets/css/using-font-face-in-css/)
+
 
 
 
