@@ -8,12 +8,10 @@ A **blessing** in **disguise**
 
 ### Cricket Teams 
 
----
-
-1. India national cricket team
-   1. Virat Kohli
-   2. MS Dhoni
-   3. Rohit Sharma
+India national cricket team
+1. Virat Kohli
+2. MS Dhoni
+3. Rohit Sharma
 
 * United States national cricket team
 * Sri Lanka national cricket team
@@ -22,8 +20,6 @@ A **blessing** in **disguise**
 ---
 
 ### Places to visit atleast once in a lifetime
-
----
 
 | Country | Reason to visit | Days to spend |
 | :---:         | :---:                 |:---:               |
@@ -36,8 +32,6 @@ A **blessing** in **disguise**
 
 ### Funny quotes that always makes me laugh 
 
----
-
 > Anybody who tells you money can't buy happiness never had any -*Samuel L. Jackson* <br>
 > In real life, I assure you, there is no such thing as algebra -*Fran Lebowitz*
 
@@ -45,9 +39,7 @@ A **blessing** in **disguise**
 
 Code Fencing 
 
----
-
-> How to change font face using CSS
+> How to change font face using CSS?
 [Stack overflow](https://stackoverflow.com/questions/43277265/how-to-change-font-face)
 ```
 @font-face { 
